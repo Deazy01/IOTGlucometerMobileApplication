@@ -13,6 +13,8 @@ mobile app
 
 hardware
 ![Alt text](hardware.jpg)
+![Alt text](hardware1.jpg)
+
 
 Block diagram
 ![Alt text](Schematics.png)
